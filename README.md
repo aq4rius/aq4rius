@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maks :)</h1>
 <h3 align="center">Computer engineering student and self-taught web developer</h3>
 <p align="right">
-<img align="right" alt="gif" width="240" src="https://bluuweb.github.io/desarrollo-web-bluuweb/img/js-gif.gif">
+<img align="right" alt="gif" width="220" src="https://bluuweb.github.io/desarrollo-web-bluuweb/img/js-gif.gif">
 </p>
 
 
