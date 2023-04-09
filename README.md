@@ -1,8 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Maks :)</h1>
 <h3 align="center">Computer engineering student and self-taught web developer</h3>
-<p align="right">
-<img align="right" alt="gif" width="220" src="https://bluuweb.github.io/desarrollo-web-bluuweb/img/js-gif.gif">
-</p>
+<img align="right" alt="gif" width="200" src="https://bluuweb.github.io/desarrollo-web-bluuweb/img/js-gif.gif">
+
 
 
 - 🔭 I’m currently working on [resume generator](https://github.com/aq4rius/resume-generator)
