@@ -6,7 +6,7 @@
 
 <img align="right" alt="gif" width="150" src="https://bluuweb.github.io/desarrollo-web-bluuweb/img/js-gif.gif">
 
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/), following the Fullstack Javascript Path
+- 🔭 I’m working on [The Odin Project](https://www.theodinproject.com/), following the Fullstack Javascript Path
 
 - 🌱 I’m currently learning **javascript and react**
 
